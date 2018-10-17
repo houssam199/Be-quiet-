@@ -1,5 +1,5 @@
-token=NDk1Nzg4NjUyNzc4MDk0NTky.DpHRVw.axyY3zw_mjXcnZlLTPnqdKPbIFc
-owner=464046823162511400
+token=NTAyMTg2ODAwNzk0NTY2NjU2.DqkRzw.EDk0DTG0Z6zX6XYroE_uZhZbVk0
+owner=469992404410302464
 prefix=B
 game=Tybe bhelp
 stayinchannel=true
